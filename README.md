@@ -1,3 +1,4 @@
-# w3process
+# w3process-obsolete-rescinded
 
-For W3C Team, W3C Advisory Board and collaborators related to the [Revising the W3C Process Community Group](http://www.w3.org/community/w3process) who need to edit documents collaboratively.
+DEPRECATED! See [Guidebook instead](https://github.com/w3c/Guide/blob/main/process/obsolete-rescinded-supserseded.html)
+
